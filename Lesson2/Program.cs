@@ -1,10 +1,10 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// Example of encapsulation
+// Example of Encapsulation
 
 namespace LessonTwo
 {
@@ -28,5 +28,5 @@ namespace LessonTwo
         }
     }
 }
-
+//dotnet new console to create project
 //dotnet run in the terminal
